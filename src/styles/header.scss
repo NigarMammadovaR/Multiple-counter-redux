@@ -1,0 +1,16 @@
+.header1{
+    background-color: plum;
+    height: 60px;
+    
+    .header{
+    display: flex;
+    justify-content: flex-start;
+    height: 60px;
+    align-items: center;
+    li{
+        margin-left: 20px;
+        list-style-type: none;
+       
+    }
+}
+}
